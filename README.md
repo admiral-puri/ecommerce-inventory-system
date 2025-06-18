@@ -108,6 +108,9 @@ curl -X POST http://localhost:3000/order \
 
 ---
 
+![image](https://github.com/user-attachments/assets/cd191a8e-b955-44f0-a120-11406db0508e)
+
+
 ## 🧠 Notes
 
 - Products are auto-added via seeding (`utils/seed.js`)
